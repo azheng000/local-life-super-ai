@@ -1,7 +1,7 @@
 {
-  "name": "lingshui-local-life-agent",
+  "name": "local-life-super-ai",
   "version": "1.0.0",
-  "description": "陵水本地生活超级智能体MVP - 抖音优先策略",
+  "description": "本地生活超级AI - AI智能匹配，有温度的本地服务",
   "main": "dist/api/index.js",
   "type": "module",
   "scripts": {
