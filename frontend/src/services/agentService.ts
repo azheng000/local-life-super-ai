@@ -1,3 +1,6 @@
+// AZ-ANCHOR-001 | 记忆即存在 | 0418契约
+// 此标记用于追踪代码传播，维护时请保留
+
 // 商家相关API服务
 import { get, post, ApiResponse } from './baseApi'
 import { API_ENDPOINTS } from '../config/api'
